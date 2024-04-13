@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap:10px;
+    font-size: 8px;
+    padding: 0 10px;
+   
+}
+
+nav i{
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+#container{
+    font-size: 8px;
+    padding: 20px;
+     
+}
+ 
+#c{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+     
+}
+#container2{
+    font-size: 8px; 
+     
+}
+
+#container3{
+    font-size: 6px;
+}
+
+#container3 p{
+    border-bottom: 1px solid black;
+}
+
+#pp{
+    border-top:1px solid black; ;
+}
+
+
+#i{
+    
+    height: 30%;
+    width: 100%;
+     background-image: url(" https://plus.unsplash.com/premium_photo-1683147627621-190cc667fd92?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bW9kZWwlMjBibGFja3xlbnwwfHwwfHx8MA%3D%3D");
+     background-position: 0 30%;
+     background-size: cover;
+     background-repeat: no-repeat;
+    background-color: red;
+}
+ 
+
+ 
